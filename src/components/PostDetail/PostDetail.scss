@@ -1,0 +1,36 @@
+div.post-detail {
+    width: 90%;
+    margin: 0 auto;
+    position: relative;
+   
+    h1 {
+        text-align:  center;
+    }
+    img {
+        height: 700px;
+        border-radius: 10px;
+        
+    }
+    .post-detail-content {
+        margin-left: 50px;
+    }
+    div.post-detail-line {
+        width: 60%;
+        margin: 0 auto;
+        height: 8px;
+        background: #8c8c8c;
+        margin-top: 50px;
+    }
+    div.comment-item {
+        margin-top: 50px;
+    }
+    div.comment-controller {
+        width: 50%;
+        margin:  0 auto;
+        margin-top: 50px;
+        
+        button {
+            margin-top: 20px;
+        }
+    }
+}
